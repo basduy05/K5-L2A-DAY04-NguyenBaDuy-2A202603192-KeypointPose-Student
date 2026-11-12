@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603192",
+ "ten": "NguyenBaDuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "basduy05",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000057978.jpg",
+  "000000072098.jpg",
+  "000000184224.jpg",
+  "000000292999.jpg",
+  "000000294329.jpg",
+  "000000220045.jpg",
+  "000000302102.jpg",
+  "000000393909.jpg",
+  "000000210604.jpg",
+  "000000359340.jpg",
+  "000000323705.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_204787.jpg",
+  "face_362568.jpg",
+  "face_442231.jpg",
+  "face_476363.jpg",
+  "face_168953.jpg",
+  "face_405456.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 18,
+   "job_id": 18,
+   "task_name": "persons-NguyenBaDuy"
+  },
+  "faces": {
+   "task_id": 19,
+   "job_id": 19,
+   "task_name": "faces-NguyenBaDuy"
+  },
+  "persons-extra": {
+   "task_id": 20,
+   "job_id": 20,
+   "task_name": "persons-extra-NguyenBaDuy"
+  },
+  "faces-extra": {
+   "task_id": 21,
+   "job_id": 21,
+   "task_name": "faces-extra-NguyenBaDuy"
+  }
+ },
+ "persons_extra": [
+  "000000125998.jpg",
+  "000000196853.jpg",
+  "000000465765.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_280788.jpg",
+  "face_379585.jpg",
+  "face_494518.jpg",
+  "face_507166.jpg"
+ ]
+}
