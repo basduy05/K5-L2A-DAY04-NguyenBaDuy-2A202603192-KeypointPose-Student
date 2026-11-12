@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Nguyễn Bá Duy
 - MSSV: 2A202603192
 - Email: basduy05@gmail.com
-- Link repository: https://github.com/basduy05/K5-L2-NguyenBaDuy-2A202603192-KeypointPose-Student
+- Link repository: https://github.com/basduy05/K5-L2A-NguyenBaDuy-2A202603192-KeypointPose-Student
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
